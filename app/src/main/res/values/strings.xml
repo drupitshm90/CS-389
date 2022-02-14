@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firstapplication_drupit</string>
+    <string name="drupit">- Drupit</string>
+    <string name="todo">TODO</string>
+</resources>
